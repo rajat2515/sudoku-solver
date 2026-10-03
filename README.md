@@ -64,8 +64,8 @@ flowchart TD
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone <your-repo-url>
-cd sudoku-solver-master
+git clone https://github.com/rajat2515/sudoku-solver.git
+cd sudoku-solver
 
 python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
